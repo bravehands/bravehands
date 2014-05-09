@@ -77,9 +77,9 @@ a:active {
   </div>
   <div id="content1">
     <div id="about-nysc">
-    <table width="100%" border="0" cellpadding="1">
+    <table width="93%" border="0" cellpadding="1">
       <tr>
-        <td width="25%" height="322" valign="top" bgcolor="#5AA72C"><a href="Kwara-At-a-glance.php"><br></a><a href="Kwara-At-a-glance.php">Kwara State - At a glance<br>
+        <td width="25%" height="1416" valign="top" bgcolor="#5AA72C"><a href="Kwara-At-a-glance.php"><br></a><a href="Kwara-At-a-glance.php">Kwara State - At a glance<br>
         </a><br>
         <a href="Orientation-Camp.php">Orientation Camp</a><br>
         <a href="Officials.php"><br>
@@ -101,76 +101,59 @@ Security Tips</a><br>
 <br>
 <a href="About-State-Coordinator.php">About State Coordinator</a></td>
       <span id="about-nysc1">  <td width="75%" valign="top"><strong>
-          <h3>SECURITY</h3>
+          <h3>SECURITY </h3>
       </strong>
-      
-        <table width="100%" border="0" cellpadding="3">
+        <p><strong>        </strong>The Kwara State Police Command in its bid to combat crime and criminality in all has embarked on a publicity outreach, crime control and strategy for the benefit of the residents. The aim is to bring to the notice of the public the response lines for the purpose of ensuring cooperation from good people of Kwara State and the entire Nigerians. Also in case of distress and emergency, this vital information will integrates all sectors in responding to all calls, against armed robbery attack, riots, industrial and fire incidence. e.t.c 
+        </p>
+        <p> <img src="images/headerblack.jpg" width="349" height="80" align="centre" alt="emergency-hotlines"></p>
+        <p><strong>Divisional Police Officers and their phone numbers</strong></p>
+        <table width="64%"  border="0" cellpadding="1">
           <tr>
-            <td width="49%" height="1231" valign="top"><p>The Kwara State Police Command in its bid to combat crime and criminality in all has embarked on a publicity outreach, crime control and strategy for the benefit of the residents. The aim is to bring to the notice of the public the response lines for the purpose of ensuring cooperation from good people of Kwara State and the entire Nigerians. Also in case of distress and emergency, this vital information will integrates all sectors in responding to all calls, against armed robbery attack, riots, industrial and fire incidence. e.t.c </p>
-              <p> <img src="images/headerblack.jpg" width="349" height="80" align="center" alt="emergency-hotlines">
-                </p>
-              <p><strong>Divisional Police Officers and their phone numbers</strong><br>
-                
-              </p>
-              <table align="center" width="64%"  border="0" cellpadding="1">
-                <tr>
-                  <td id="Green-Layout"width="48%" align="center"><a href="Security-Hotlines.php">Ilorin Area Command / Divisions</a></td>
-                </tr>
-                <tr>
-                  <td id="Green-Layout" align="center"><a href="Security-Hotlines.php">Bode Saadu Area Comman / Divisions</a></td>
-                </tr>
-                <tr>
-                  <td id="Green-Layout" align="center"><a href="Security-Hotlines.php">Omu-Aran Area Command /Divisions</a></td>
-                </tr>
-            </table>
-              <br>
-              <table id="Green-Layout" width="100%" border="0" cellpadding="1">
-                <tr>
-                  <td height="696"><p><img src="images/SS-icon.png" width="142" height="28" align="right" alt="SS-icon"><br><br>
-                    <em>Chorus</em><br>
-                    Another challenge oh<br>
-                    Another challenge oh <br>
-                    Another challenge oh <br>
-                    Security number one (2x)<br>
+            <td id="Green-Layout"width="48%" align="center"><a href="Security-Hotlines.php">Ilorin Area Command / Divisions</a></td>
+          </tr>
+          <tr>
+            <td id="Green-Layout" align="center"><a href="Security-Hotlines.php">Bode Saadu Area Comman / Divisions</a></td>
+          </tr>
+          <tr>
+            <td id="Green-Layout" align="center"><a href="Security-Hotlines.php">Omu-Aran Area Command /Divisions</a></td>
+          </tr>
+        </table>
+        <p><img src="images/St-icon.png" width="139" height="29"></p>
+        <p> 1. Inform your movement out of town to only trusted neighbours.<br>
+          <br>
+          2. Do not board a vehicle with two or more passengers inside, they may be robbers or kidnappers<br>
   <br>
-                    Always wear your uniform<br>
-                    Abide by security tips<br>
-                    Avoid night crawling<br>
-                    Zero mono movement (2x)<br><br>
-  <em>Chorus</em><br><br>
-                    Say no to red light zone<br>
-                    Humily and Service<br>
-                    Tolerance and Love<br>
-                    Discipline watchword (2x)<br><br>
-  <em>Chorus</em><br><br>
-                    NYSC's Good<br>
-                    NYSC's Unity<br>
-                    NYSC is it<br>
-                    NYSC will Stay (2x)
-                   Song Composed by: Mrs Ezinne Ngozi A. Ezekwe (Former NYSC Kwara State Coordinator)</td>
-                </tr>
-              </table></td>
-            <td id="Green-Layout" width="51%" valign="top"><p><img src="images/St-icon.png" width="139" height="29" align="right" alt="ST-Icon"><br><br>
-              1. Inform your movement out of town to only trusted neighbours.<br><br>
-              2. Do not board a vehicle with two or more passengers inside, they may be robbers or kidnappers<br><br>
-              3. Enter vehicle only at recognized parks<br><br>
-              4. Screen your house help or guards before employing them<br><br>
-              5. While travelling long distances anytime it gets dark, check into the nearest hotel and continue the journey the next day<br><br>
-              6. Do not open the door of your house to unknown person(s) <br><br>
-              7. Call any of the emergency numbers if you are not sure of any movement around your premises<br><br>
-              8. Make sure there is some airtime on your handsets at night, you may need to save you life or that of others<br><br>
-              9. Do not keep huge sum of money at home<br><br>
-              10. Always ask for identity of security personnel, power holdings or other utility<br><br>
-              11. Staff before you open your door<br><br>
-              12. If you notice suspicious persons tracing you, drive to the nearest police station<br><br>
-              13. Ensure to lock all doors and windows at night<br><br>
-              14. Provide adequate security light in your house and business premises<br><br>
-              15. Remove any object which can aid another into your house i.e ladder, table, stool e.t.c or take them away from the fence<br><br>
-              16. Screen domestic staff befor employment and obtain their photograph or allow police to screen for you<br><br>
-              17. Vary your routes to and from banks<br><br>
-              18. Do not allow your minors to open the doors for visitors or strangers.<br><br>
-            
-        </table></td></span></tr></table></div>
+          3. Enter vehicle only at recognized parks<br>
+  <br>
+          4. Screen your house help or guards before employing them<br>
+  <br>
+          5. While travelling long distances anytime it gets dark, check into the nearest hotel and continue the journey the next day<br>
+  <br>
+          6. Do not open the door of your house to unknown person(s) <br>
+  <br>
+          7. Call any of the emergency numbers if you are not sure of any movement around your premises<br>
+  <br>
+          8. Make sure there is some airtime on your handsets at night, you may need to save you life or that of others<br>
+  <br>
+          9. Do not keep huge sum of money at home<br>
+  <br>
+          10. Always ask for identity of security personnel, power holdings or other utility<br>
+  <br>
+          11. Staff before you open your door<br>
+  <br>
+          12. If you notice suspicious persons tracing you, drive to the nearest police station<br>
+  <br>
+          13. Ensure to lock all doors and windows at night<br>
+  <br>
+          14. Provide adequate security light in your house and business premises<br>
+  <br>
+          15. Remove any object which can aid another into your house i.e ladder, table, stool e.t.c or take them away from the fence<br>
+  <br>
+          16. Screen domestic staff befor employment and obtain their photograph or allow police to screen for you<br>
+  <br>
+          17. Vary your routes to and from banks<br>
+  <br>
+          18. Do not allow your minors to open the doors for visitors or strangers.</p></td></span></tr></table></div>
   <div id="footer">
     <table width="100%" border="0" cellpadding="1">
       <tr>

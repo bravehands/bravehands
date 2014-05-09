@@ -102,9 +102,10 @@ Security Tips</a><br>
 <a href="About-State-Coordinator.php">About State Coordinator</a></td>
         <td width="75%" valign="top"><strong>
           <h3>NYSC KWARA STATE ORIENTATION CAMP</h3>
-        </strong><br/>
-        The Kwara State NYSC Orientation Camp is located at Yikpata, Edu Local Government Of Kwara State. Corps members deployed to Kwara State usually report at this location. The Orientation camp is approximately 2 hours away from Ilorin, the Kwara State Capital.
-        </p></td>
+        </strong>
+          <p><strong>            </strong><br/>
+            The Kwara State NYSC Orientation Camp is located at Yikpata, Edu Local Government Of Kwara State. Corps members deployed to Kwara State usually report at this location. The Orientation camp is approximately 2 hours away from Ilorin, the Kwara State Capital. </p>
+          <p>&nbsp; </p></td>
       </tr>
     </table>
     </div>
